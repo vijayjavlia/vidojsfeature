@@ -3,11 +3,11 @@
 
          let oldplayer=document.querySelector('#my-video');
 
-         $('#my-video').ready(()=>{
+        window.load=()=>{
 
                 oldplayer.play();
 
-         })
+         }
         //  videojs(oldplayer).dispose();
     let count=0;
         document.querySelector('#prev').addEventListener('dblclick', ()=>{ backward()});
