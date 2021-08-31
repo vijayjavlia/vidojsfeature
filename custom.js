@@ -14,7 +14,7 @@
         // })
 
         var videoplayer=videojs('my-video',{
-            // controls:true,
+            controls:true,
              loop:true,
             playbackRates:[0.5,1,1.5,2,2.5,3,3.5]
            
