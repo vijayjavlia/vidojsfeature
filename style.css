@@ -38,3 +38,9 @@
     opacity: 1;
     pointer-events: unset;
 }
+.video-js
+{
+
+    width: 1400px;
+    height: 1400px;
+}
