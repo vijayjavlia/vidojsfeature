@@ -41,6 +41,11 @@
 .video-js
 {
 
-    width: 1400px;
-    height: 1400px;
+    width: 360px;
+    height: 480px;
 }
+
+div {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+  }
+  
